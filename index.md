@@ -1,6 +1,6 @@
 ## Katie Hsieh
 
-I'm a second year student studying computer engineering.
+[Hello there!](test.md) I'm a second year student studying computer engineering.
 
 
 ### Skills
@@ -24,7 +24,7 @@ I'm a second year student studying computer engineering.
   - Ukulele
   - Guitar
   - Kalimba
-2. **Learning app development**
+2. **Learning Swift and iOS app development**
 3. **Playing Animal Crossing**
 4. **Crochet**
   - [Yarn Plushies](https://yarnplushies.com/)
@@ -70,6 +70,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-[Hello world](test.md)

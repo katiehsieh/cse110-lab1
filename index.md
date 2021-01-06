@@ -44,6 +44,11 @@ I'm a second year student studying computer engineering.
 > Start early, start often
 
 
+### Meet My Bird
+
+<img src="Frosty.JPG" width="100">
+
+
 ### Quick Markdown Guide
 
 ```markdown
@@ -68,6 +73,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 [Hello world](test.md)
-
-### Meet My Bird
-(Frosty.JPG)

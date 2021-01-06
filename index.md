@@ -1,6 +1,8 @@
 ## Katie Hsieh
 
 Welcome to my CSE 110 page!
+I'm a second year student studying computer engineering.
+
 
 ### Skills
 
@@ -14,6 +16,7 @@ Welcome to my CSE 110 page!
 - Arduino
 - CircuitPython
 
+
 ### Hobbies
 
 1. **Playing and learning musical instruments**
@@ -22,9 +25,11 @@ Welcome to my CSE 110 page!
   - Ukulele
   - Guitar
   - Kalimba
-2. **Crochet**
+2. **Learning app development**
+3. **Crochet**
   - [Yarn Plushies](https://yarnplushies.com/)
-3. ~~Baking~~
+4. ~~Baking~~
+
 
 ### Daily To-Do List
 
@@ -33,9 +38,11 @@ Welcome to my CSE 110 page!
 - [x] Study
 - [ ] Sleep
 
+
 ***Quote of the day***
 
 > Start early, start often
+
 
 ### Markdown Guide
 
@@ -59,4 +66,5 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Config file](_config.yml)
+
+[Test page](test.md)

@@ -1,6 +1,5 @@
 ## Katie Hsieh
 
-Welcome to my CSE 110 page!
 I'm a second year student studying computer engineering.
 
 
@@ -26,9 +25,10 @@ I'm a second year student studying computer engineering.
   - Guitar
   - Kalimba
 2. **Learning app development**
-3. **Crochet**
+3. **Playing Animal Crossing**
+4. **Crochet**
   - [Yarn Plushies](https://yarnplushies.com/)
-4. ~~Baking~~
+5. ~~Baking~~
 
 
 ### Daily To-Do List
@@ -44,7 +44,7 @@ I'm a second year student studying computer engineering.
 > Start early, start often
 
 
-### Markdown Guide
+### Quick Markdown Guide
 
 ```markdown
 Syntax highlighted code block
@@ -67,4 +67,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-[Test page](test.md)
+[Hello world](test.md)
+
+### Meet My Bird
+(Frosty.JPG)
